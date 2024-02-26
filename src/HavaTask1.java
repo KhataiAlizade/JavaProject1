@@ -4,7 +4,6 @@ public class HavaTask1 {
         System.out.println("Hello World");
         System.out.println("Debugging starts here...");
 
-        // Set a breakpoint on the next line
         int result = addNumbers(5, 7);
 
         System.out.println("Result of adding numbers: " + result);
